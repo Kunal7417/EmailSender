@@ -1,2 +1,3 @@
 # EmailSender
-This is springboot application that will automatically send emails 
+
+This is a springboot application that will automatically send emails. 
